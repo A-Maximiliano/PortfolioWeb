@@ -22,7 +22,7 @@
         <a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
         <nav id="sidebar-wrapper">
             <ul class="sidebar-nav">
-                <li class="sidebar-brand"><a href="#page-top">Start Bootstrap</a></li>
+                <li class="sidebar-brand"><a href="#page-top">Aqui va algo</a></li>
                 <li class="sidebar-nav-item"><a href="#page-top">Inicio</a></li>
                 <li class="sidebar-nav-item"><a href="#about">Acerca</a></li>
                 <li class="sidebar-nav-item"><a href="#services">Certificaciones</a></li>
