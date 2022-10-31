@@ -35,7 +35,7 @@
             <div class="container px-4 px-lg-5 text-center">
                 <h1 class="mb-1">Maximiliano Navarro Fernández</h1>
                 <h3 class="mb-5"><em>Portafolio profesional</em></h3>
-                <a class="btn btn-primary btn-xl" href="#about">Mas información</a>
+                <a class="btn btn-primary btn-xl" href="#about">Obtener Mas información</a>
             </div>
         </header>
         <!-- About-->
