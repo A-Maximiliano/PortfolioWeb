@@ -30,26 +30,37 @@
                 <li class="sidebar-nav-item"><a href="#contact">Contacto</a></li>
             </ul>
         </nav>
+
+
         <!-- Header-->
         <header class="masthead d-flex align-items-center">
             <div class="container px-4 px-lg-5 text-center">
-                <h1 class="mb-1">Adrián Maximiliano Navarro Fernández</h1>
+
+            <div class="transbox"> <!-- background transparent --> 
+
+                <h1 class="mb-1">Maximiliano Navarro Fernández</h1>
                 <h3 class="mb-5"><em>Portafolio profesional</em></h3>
-                <a class="btn btn-primary btn-xl" href="#about">Obtener Mas información</a>
+                 <!--<a class="btn btn-primary btn-xl" href="#about">Obtener Mas información</a> -->
+            </div> <!-- background transparent --> 
             </div>
         </header>
+
+
         <!-- About-->
         <section class="content-section bg-light" id="about">
             <div class="container px-4 px-lg-5 text-center">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-10">
-                        <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
+                        <h2>Entusiasta de las nuevas tecnologías y en el desarrollo de software!</h2>
                         <p class="lead mb-5">
-                            This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at
-                            <a href="https://unsplash.com/">Unsplash</a>
-                            !
+                           
+                        Soy un programador Junior con conocimientos en BackEnd, FrontEnd, Base de Datos y otros softwar's. Poseo excelentes habilidades de análisis, 
+                        planificación y gestión del tiempo, los cuales he adquirido durante mis estudios universitarios y experiencia profesional previa. 
+                        También me desempeño bien en equipos de trabajo, soy proactivo, me adapto rápidamente y me mantengo en constante aprendizaje.
+
+                
                         </p>
-                        <a class="btn btn-dark btn-xl" href="#services">What We Offer</a>
+                        <a class="btn btn-dark btn-xl" href="#services">Experiencia   Profesional</a>
                     </div>
                 </div>
             </div>
@@ -58,38 +69,57 @@
         <section class="content-section bg-primary text-white text-center" id="services">
             <div class="container px-4 px-lg-5">
                 <div class="content-section-heading">
-                    <h3 class="text-secondary mb-0">Services</h3>
-                    <h2 class="mb-5">What We Offer</h2>
+                   <!-- <h3 class="text-secondary mb-0">Experiencia</h3> -->
+                    <h2 class="mb-5">Experiencia Laboral</h2>
                 </div>
+
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-screen-smartphone"></i></span>
-                        <h4><strong>Responsive</strong></h4>
-                        <p class="text-faded mb-0">Looks great on any screen size!</p>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-pencil"></i></span>
-                        <h4><strong>Redesigned</strong></h4>
-                        <p class="text-faded mb-0">Freshly redesigned for Bootstrap 5.</p>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-like"></i></span>
-                        <h4><strong>Favorited</strong></h4>
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-chart"></i></span>
+                        <h4><strong>Tecnico 1 Ministerio de Justicia y Paz. Feb 2019 - Actualidad</strong></h4>
                         <p class="text-faded mb-0">
+                        <p class="text-faded mb-0">• Ingresar los datos de los reclusos en un sistema bajo la responsabilidad de la Administración Nacional Penitenciaria.</p>	
+                        <p class="text-faded mb-0">• Elaborar informes estadísticos en base a los datos aportados.</p>
+                        <p class="text-faded mb-0">• Hacer presentaciones e infografías para los miembros de la junta.</p>
+                       
+
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-calculator"></i></span>
+                        <h4><strong>Asistente de Contabilidad DITESA Enero 2018 - Febrero 2019.</strong></h4>
+                        <p class="text-faded mb-0">• Mantenimiento del sistema SAP Business ERP.</p>	
+                        <p class="text-faded mb-0">• Elaboración de informes mensuales para supervisores y gerentes.</p>
+                        <p class="text-faded mb-0">• Atención y atención al cliente.</p>
+                        <p class="text-faded mb-0">• Autorización de facturación según análisis crediticio de los clientes.</p>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-folder-alt"></i></span>
+                        <h4><strong>Asistente Administrativo Septiembre 2016 - Noviembre 2017</strong></h4>
+                         <!--<p class="text-faded mb-0">
                             Millions of users
-                            <i class="fas fa-heart"></i>
+                           <i class="fas fa-heart"></i>
                             Start Bootstrap!
-                        </p>
+                        </p>-->
+
+                        <p class="text-faded mb-0">• Mantenimiento del sistema SAP Business ERP.</p>	
+                        <p class="text-faded mb-0">• Entrada de nuevos clientes al sistema.</p>
+                        <p class="text-faded mb-0">• Programar y coordinar reuniones para los gerentes.</p>
+                        <p class="text-faded mb-0">• Gestionar los informes de viajes y gastos de los miembros del equipo.</p>
                     </div>
+
                     <div class="col-lg-3 col-md-6">
-                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-mustache"></i></span>
-                        <h4><strong>Question</strong></h4>
-                        <p class="text-faded mb-0">I mustache you a question...</p>
+                        <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-graph"></i></span>
+                        <h4><strong>Pasantía de Programador en Coorporación Coopeagri Mayo 2016 - Agosto 2016</strong></h4>
+                        <p class="text-faded mb-0">• Creación de un sistema (Java, Oracle/PL) estadístico y de recolección de datos de estaciones meteorológicas para el sector Agro.</p>
+                        <p class="text-faded mb-0">• Elaboración de un sitio web para la empresa</p>
                     </div>
+                    
                 </div>
             </div>
         </section>
-        <!-- Callout-->
+        <!-- Callout
         <section class="callout">
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mx-auto mb-5">
@@ -99,7 +129,7 @@
                 </h2>
                 <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/theme/stylish-portfolio/">Download Now!</a>
             </div>
-        </section>
+        </section> -->
 
 
 
@@ -167,6 +197,10 @@
         <section class="page-section bg-light" id="portfolio">
             <div class="container">
                 <div class="text-center">
+                    <br />
+                    <br />
+                    <br />
+                    <br />
                     <h2 class="section-heading text-uppercase">Portfolio</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
@@ -263,6 +297,7 @@
                     </div>
                 </div>
             </div>
+            
         </section>
 
 
@@ -490,12 +525,16 @@
                 <a class="btn btn-xl btn-dark" href="#!">Look at Me!</a>
             </div>
         </section>
-        <!-- Map-->
+
+
+        <!-- Map
         <div class="map" id="contact">
             <iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
             <br />
             <small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a></small>
-        </div>
+        </div> -->
+
+
         <!-- Footer-->
         <footer class="footer text-center">
             <div class="container px-4 px-lg-5">

@@ -37,12 +37,14 @@
     --bs-primary: #1D809F;
     --bs-secondary: #ecb807;
     --bs-success: #198754;
-    --bs-info: #0dcaf0;
+    --bs-info: #212529;
+    /*--bs-info: #0dcaf0; */
     --bs-warning: #ecb807;
     --bs-danger: #dc3545;
     --bs-light: #f8f9fa;
     --bs-dark: #212529;
-    --bs-primary-rgb: 29, 128, 159;
+    --bs-primary-rgb: 21, 25, 29;
+    /* --bs-primary-rgb: 29, 128, 159; */
     --bs-secondary-rgb: 236, 184, 7;
     --bs-success-rgb: 25, 135, 84;
     --bs-info-rgb: 13, 202, 240;
@@ -12418,6 +12420,7 @@ footer.footer .social-link:hover {
     text-decoration: none;
 }
 
+/*
 .map {
     height: 30rem;
 }
@@ -12433,7 +12436,7 @@ footer.footer .social-link:hover {
     .map {
         height: 75%;
     }
-}
+}*/
 
 .masthead {
     min-height: 30rem;
@@ -12448,6 +12451,54 @@ footer.footer .social-link:hover {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+/* background transparente*/
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=50);
+}
+
+div.transbox {
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #ffffff;
+    margin: 3px;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+/* background transparente*/
+
+
+
+/* background transparente
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    /* #ffffff 
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=70);
+}*/
+
+
+/*
+div.transbox p {
+    margin: 3%;
+    font-weight: bold;
+    color: #ffffff;
+    /* #00000 
+}
+
+ background transparente*/
+
+
 
 .masthead h1,
 .masthead .h1 {
@@ -12666,4 +12717,3 @@ footer.footer .social-link:hover {
 .portfolio-modal .close-modal:hover {
     opacity: 0.3;
 }
-
