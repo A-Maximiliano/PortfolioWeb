@@ -14,7 +14,7 @@
 <!------------------- ------------------- ------------------- ------------------- -->
 
 
-<form class="login-form" action="" method="POST">
+<form class="login-form" action="revisar.php" method="POST">
   <p class="login-text">
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>
