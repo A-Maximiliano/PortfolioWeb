@@ -12304,7 +12304,8 @@ html {
     height: 100%;
     transition: all 0.4s ease 0s;
     transform: translateX(250px);
-    background: #ABACAD; /* 1D809F */
+    background: #ABACAD;
+    /* 1D809F */
     border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -12471,19 +12472,20 @@ div.transbox {
     border: 1px solid black;
     opacity: 0.6;
     filter: alpha(opacity=50);
-} 
+}
 
 div.transbox {
     color: #000000;
-    background-color: #737577;/*737577 */  
+    background-color: #737577;
+    /*737577 */
     border-color: #ffffff;
     margin: 20px;
-    
+
     opacity: 0.6;
     filter: alpha(opacity=60);
 }
 
- /* background transparente */
+/* background transparente */
 
 
 
@@ -12959,3 +12961,5 @@ div.transbox p {
 .portfolio-modal .close-modal:hover {
     opacity: 0.3;
 }
+
+
