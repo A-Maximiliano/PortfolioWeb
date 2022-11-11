@@ -2,7 +2,9 @@
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:100,300,400,700);
 @import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
-body, html {
+
+body,
+html {
   height: 100%;
 }
 
@@ -16,21 +18,27 @@ body {
 input ::-webkit-input-placeholder {
   color: rgba(255, 255, 255, 0.7);
 }
+
 input ::-moz-placeholder {
   color: rgba(255, 255, 255, 0.7);
 }
+
 input :-ms-input-placeholder {
   color: rgba(255, 255, 255, 0.7);
 }
+
 input:focus {
   outline: 0 transparent solid;
 }
+
 input:focus ::-webkit-input-placeholder {
   color: rgba(0, 0, 0, 0.7);
 }
+
 input:focus ::-moz-placeholder {
   color: rgba(0, 0, 0, 0.7);
 }
+
 input:focus :-ms-input-placeholder {
   color: rgba(0, 0, 0, 0.7);
 }
@@ -50,11 +58,13 @@ input:focus :-ms-input-placeholder {
   padding: 0.5rem;
   text-align: center;
 }
+
 .login-text .fa-stack-1x {
   color: black;
 }
 
-.login-username, .login-password {
+.login-username,
+.login-password {
   background: transparent;
   border: 0 solid;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
@@ -65,7 +75,9 @@ input:focus :-ms-input-placeholder {
   transition: 250ms background ease-in;
   width: calc(100% - 3rem);
 }
-.login-username:focus, .login-password:focus {
+
+.login-username:focus,
+.login-password:focus {
   background: white;
   color: black;
   transition: 250ms background ease-in;
@@ -84,6 +96,7 @@ input:focus :-ms-input-placeholder {
   text-align: center;
   width: 100%;
 }
+
 .login-forgot-pass:hover {
   opacity: 1;
 }
@@ -98,7 +111,9 @@ input:focus :-ms-input-placeholder {
   padding: 0.25rem;
   transition: 250ms background ease-in;
 }
-.login-submit:hover, .login-submit:focus {
+
+.login-submit:hover,
+.login-submit:focus {
   background: white;
   color: black;
   transition: 250ms background ease-in;
@@ -114,9 +129,9 @@ input:focus :-ms-input-placeholder {
 
 .underlay-photo {
   -webkit-animation: hue-rotate 6s infinite;
-          animation: hue-rotate 6s infinite;
+  animation: hue-rotate 6s infinite;
   background: url("../resources/img/img14.jpg");
-  background-size: cover;
+  background-size:205ex; /* cover */
   -webkit-filter: grayscale(30%);
   z-index: -1;
 }
@@ -130,6 +145,7 @@ input:focus :-ms-input-placeholder {
   from {
     -webkit-filter: grayscale(30%) hue-rotate(0deg);
   }
+
   to {
     -webkit-filter: grayscale(30%) hue-rotate(360deg);
   }
@@ -139,8 +155,8 @@ input:focus :-ms-input-placeholder {
   from {
     -webkit-filter: grayscale(30%) hue-rotate(0deg);
   }
+
   to {
     -webkit-filter: grayscale(30%) hue-rotate(360deg);
   }
 }
-  
