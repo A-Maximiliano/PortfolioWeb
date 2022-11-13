@@ -55,7 +55,7 @@
             <div class="container px-4 px-lg-5 text-center">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-10">
-                        <h2>Entusiasta de las nuevas tecnologías y en el desarrollo de software!</h2>
+                        <h2>Entusiasta de las nuevas tecnologías y el desarrollo de software!</h2>
                         <p class="lead mb-5">
                            
                         Soy un programador Junior con conocimientos en BackEnd, FrontEnd, Base de Datos y otros softwar's. Poseo excelentes habilidades de análisis, 
@@ -64,44 +64,49 @@
 
                 
                         </p>
-                        <a class="btn btn-dark btn-xl" href="#services">Experiencia   Profesional</a>
+                        <a class="btn btn-dark btn-xl" href="#services1">Experiencia   Profesional</a>
                     </div>
                 </div>
             </div>
         </section>
 
 
-                <!-- Services-->
-                <section class="page-section" id="services" background-color= "#000000">
+                <!-- Services
+                <section class="page-section" id="services" background-color= "#000000"> -->
+
+        <section class="content-section bg-primary text-white text-center" id="services">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Estudios</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Formación Académica.</h3>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                            <i class="fas fa-solid fa-code fa-stack-1x fa-inverse"></i>  
                         </span>
-                        <h4 class="my-3">Técnico Programador de Aplicaciones informáticas</h4>
+                        <h3 class="my-3">Técnico en Programación</h3>
+                        <h4 class="my-3">Instituto Nacional de Aprendizaje 2016-2017</h4>
                         <p class="text-muted">Creación de aplicaciones backend en lenguajes Java y C# con conexión a base de datos .</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                            <i class="fa-solid fa-book-open-reader fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Técnico en Educación Virtual</h4>
-                        <p class="text-muted">Manejo de diferentes herramientas y entornos virtuales para la enseñanza a través de internet.</p>
+                        <h3 class="my-3">Técnico en Educación Virtual</h3>
+                        <h4 class="my-3">Comunidad Internacional FATLA 2019-2020</h4>
+                        <p class="text-muted" id="services1">Manejo de diferentes herramientas y entornos virtuales para la enseñanza a través de internet.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                            <i class="fa-solid fa-laptop-code fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Bachiller en Ingeniería de Sistemas</h4>
-                        <p class="text-muted">Formación profesional como Ingeniero en Sistemas Computacionales.</p>
+                        <h3 class="my-3">Ingeniería de Sistemas</h3>
+                        <h4 class="my-3">Universidad Internacional San Isidro Labrador 2020-2023</h4>
+                        <p class="text-muted">Formación profesional como Ingeniero en Sistemas de Información.</p>
                     </div>
                 </div>
             </div>
@@ -191,8 +196,10 @@
 
 
 
-        <!-- Services
+
+        <!-- CERTIFICACIONES Y CURSOS
         <div class="transbox"> -->
+
         <section class="content-section bg-primary text-white text-center" id="services">
         
             <div class="container px-4 px-lg-5">
@@ -206,31 +213,16 @@
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-share"></i></span>
                         <h4><strong>MICROSOFT - AZ-900 Azure Fundamentals 2022.</strong></h4>
                         <p class="text-faded mb-0">
-                       
-                       
-                       
-
                     </div>
                     
                     <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-calendar"></i></span>
-                        <h4><strong>SCRUM STUDY - Scrum Fundamentals (SFC) 2022.</strong></h4>
-                       
+                        <h4><strong>SCRUM STUDY - Scrum Fundamentals (SFC) 2022.</strong></h4>    
                     </div>
 
                     <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-social-github"></i></span>
                         <h4><strong>UDEMY - Curso de GIT / GitHub 2022</strong></h4>
-                         <!--<p class="text-faded mb-0">
-                            Millions of users
-                           <i class="fas fa-heart"></i>
-                            Start Bootstrap!
-                        </p>
-
-                        <p class="text-faded mb-0">• Mantenimiento del sistema SAP Business ERP.</p>	
-                        <p class="text-faded mb-0">• Entrada de nuevos clientes al sistema.</p>
-                        <p class="text-faded mb-0">• Programar y coordinar reuniones para los gerentes.</p>
-                        <p class="text-faded mb-0">• Gestionar los informes de viajes y gastos de los miembros del equipo.</p>  -->
                     </div>
 
                     <div class="col-lg-3 col-md-6">
