@@ -3,8 +3,8 @@
 	include_once 'conexion.php';
 	$usuario = $_POST['usuario'];
 	$contrasena = $_POST['clave'];
-	$sentencia = $bd->prepare('select * from t_cliente where 
-								Nombre = ? and Telefono = ?;');
+	$sentencia = $bd->prepare('select * from t_usuario where 
+								Usuario = ? and Clave = ?;');
 	$sentencia->execute([$usuario, $contrasena]);
 	$datos = $sentencia->fetch(PDO::FETCH_OBJ);
 	//print_r($datos);
