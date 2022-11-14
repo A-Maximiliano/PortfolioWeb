@@ -1,5 +1,5 @@
 <?php  
-	$servidor = "mysql:dbname=crudsem5; host=127.0.0.1; port=3307"; // localhost     127.0.0.1
+	$servidor = "mysql:dbname=crudsem5; host=127.0.0.1; port=3307"; // localhost     127.0.0.1 
 	$usuario = "root";
 	$password = "";
 
