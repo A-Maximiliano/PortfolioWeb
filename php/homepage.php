@@ -42,8 +42,12 @@
 
                 <div class="transbox"> <!-- background transparent --> 
 
-                    <h1 class="mb-1">Maximiliano Navarro Fernández</h1>
-                    <h3 class="mb-5"><em>Portafolio profesional</em></h3>
+                    <h1 class="mb-1"> Maximiliano Navarro Fernández </h1>
+                    <h4 ><em>ID: 1 1378 0643</em></h4>
+                    <h4 ><em>    Tel: 8764 7351      </em></h4>
+                    <h4 ><em>maxnavarro01@outlook.com </em></h4>
+                    
+                    
                     <!--<a class="btn btn-primary btn-xl" href="#about">Obtener Mas información</a> -->
                 </div> <!-- background transparent --> 
             </div>
@@ -120,23 +124,52 @@
                     <h2 class="section-heading text-uppercase">Experiencia Laboral</h2>
                     <h3 class="section-subheading text-muted">Orden Cronológico</h3>
                 </div>
-                <ul class="timeline">                    
-
-                    <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../resources/img/7.jpg" alt="..." /></div>
+                <ul class="timeline">     
+                    
+                <li>
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="../resources/img/c3.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>Pasantía como Programador en Coorporación CoopeAgri. </h4>
-                                <h4 class="subheading">Mayo 2016 - Agosto 2016.</h4>
+                                <h4>Consultor AuraQuantic</h4>
+                                <h4 class="subheading">Diciembre 2022 - Actualidad</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">•Creación de un sistema (Java, Oracle/PL) estadístico y de recolección de datos de estaciones meteorológicas para el sector Agro.</p>
-                                <p class="text-muted">• Elaboración de un sitio web para la empresa de acuerdo a los requerimientos solicitados por la Gerencia</p>
+                            <div class="timeline-body"><p class="text-muted">• Administración de Software BPM.</p>
+                                <p class="text-muted">• Creación de Interfacez según requerimientos del cliente (Azure, AuraQuantic Cloud).</p>
+                                <p class="text-muted">• Manejo de base de datos, T-SQL a nivel de administración.</p>
                             </div>
-                        </div>
+                        </div>                       
+                    </li>
+
+                    <li class="timeline-inverted">
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="../resources/img/5.1.jpg" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>Técnico Ministerio de Justicia y Paz. </h4>
+                                <h4 class="subheading">Febrero 2019 - Noviembre 2022</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">• Ingresar los datos de los reclusos en un sistema bajo la responsabilidad de la Administración Nacional Penitenciaria.</p>
+                                <p class="text-muted">• Elaborar informes estadísticos con los datos aportados.</p>
+                                <p class="text-muted">• Hacer presentaciones e infografías para los miembros del Consejo Técnico.</p>
+                            </div>
+                        </div>   
                     </li>
 
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../resources/img/8.jpg" alt="..." /></div>
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="../resources/img/6.jpg" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>Asistente de Contabilidad DITESA. </h4>
+                                <h4 class="subheading">Enero 2018 - Febrero 2019.</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">• Mantenimiento del sistema SAP Business ERP.</p>
+                                <p class="text-muted">• Elaboración de informes mensuales para supervisores y gerentes.</p>
+                                <p class="text-muted">• Atención al cliente y autorización de facturación según análisis crediticio de los clientes.</p>
+                            </div>
+                        </div>                       
+                    </li>
+
+                    <li class="timeline-inverted">
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="../resources/img/8.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>Asistente Administrativo Grupo Historia.</h4>
@@ -149,31 +182,16 @@
                             </div>
                         </div>
                     </li>
-
-                    <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../resources/img/6.jpg" alt="..." /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>Asistente de Contabilidad DITESA. </h4>
-                                <h4 class="subheading">Enero 2018 - Febrero 2019.</h4>
-                            </div>
-                            <div class="timeline-body"><p class="text-muted">• Mantenimiento del sistema SAP Business ERP.</p>
-                                <p class="text-muted">• Elaboración de informes mensuales para supervisores y gerentes.</p>
-                                <p class="text-muted">• Atención al cliente y autorización de facturación según análisis crediticio de los clientes.</p>
-                            </div>
-                        </div>
-                    </li>
-
+                  
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="../resources/img/5.1.jpg" alt="..." /></div>
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="../resources/img/7.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>Técnico Ministerio de Justicia y Paz. </h4>
-                                <h4 class="subheading">Feb 2019 - Actualidad</h4>
+                                <h4>Pasantía como Programador en Coorporación CoopeAgri. </h4>
+                                <h4 class="subheading">Mayo 2016 - Agosto 2016.</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">• Ingresar los datos de los reclusos en un sistema bajo la responsabilidad de la Administración Nacional Penitenciaria.</p>
-                                <p class="text-muted">• Elaborar informes estadísticos con los datos aportados.</p>
-                                <p class="text-muted">• Hacer presentaciones e infografías para los miembros del Consejo Técnico.</p>
+                            <div class="timeline-body"><p class="text-muted">•Creación de un sistema (Java, Oracle/PL) estadístico y de recolección de datos de estaciones meteorológicas para el sector Agro.</p>
+                                <p class="text-muted">• Elaboración de un sitio web para la empresa de acuerdo a los requerimientos solicitados por la Gerencia</p>
                             </div>
                         </div>
                     </li>
@@ -293,7 +311,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../resources/img/notion.png" alt="..." />
+                                <img class="img-fluid" src="../resources/img/m1.png" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Threads</div>
@@ -387,29 +405,34 @@
      <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Cerrar" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Punto de Venta</h2>
+                                    <p class="item-intro text-muted">Confeccion Sistema Punto de Venta.</p>
+                                    <p> Mediante el lenguale de programación C# se confeccionó un sistema de punto de venta el cual permite crear usuarios, recuperar 
+                                        constraseñas, crear, consultar, modificar y eliminar clientes, proveeodres o productos. También permite la facturación de los 
+                                        productos seleccionados. Además cuenta con conexión a una base de datos (MySQL) desde donde se guarda y consulta la información digitada por el usuario</p>
+                                    <p class="item-intro text-muted">Ventana Mantenimiento de Clientes.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/m2.png" alt="..." />
+                                    <p class="item-intro text-muted">Ventana de Facturación de Productos.</p>
+                                        <img class="img-fluid d-block mx-auto" src="../resources/img/m3.png" alt="..." />
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Threads
+                                            <strong>Cliente:</strong>
+                                            Proyecto Universitario.
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Illustration
+                                            <strong>Categoria:</strong>
+                                            BackEnd.
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Volver
                                     </button>
                                 </div>
                             </div>
