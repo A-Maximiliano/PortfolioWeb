@@ -27,7 +27,8 @@
                 <li class="sidebar-brand"><a href="#page-top">Descargar Curriculum</a></li>
                 <li class="sidebar-nav-item"><a href="#page-top">Inicio</a></li>
                 <li class="sidebar-nav-item"><a href="#about">Acerca</a></li>
-                <li class="sidebar-nav-item"><a href="#services">Certificaciones</a></li>
+                <li class="sidebar-nav-item"><a href="#exper">Experiencia</a></li>
+                <li class="sidebar-nav-item"><a href="#certif">Certificaciones</a></li>
                 <li class="sidebar-nav-item"><a href="#portfolio">Portfolio</a></li>
                 <li class="sidebar-nav-item"><a href="#contact">Contacto</a></li>
             </ul>
@@ -118,7 +119,7 @@
 
 
          <!-- About-->
-         <section class="page-section" id="about">
+         <section class="page-section" id="exper">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Experiencia Laboral</h2>
@@ -218,7 +219,7 @@
         <!-- CERTIFICACIONES Y CURSOS
         <div class="transbox"> -->
 
-        <section class="content-section bg-primary text-white text-center" id="services">
+        <section class="content-section bg-primary text-white text-center" id="certif">
         
             <div class="container px-4 px-lg-5">
                 <div class="content-section-heading">
@@ -301,9 +302,9 @@
                     <br />
                     <br />
                     <h2 class="section-heading text-uppercase">Portfolio</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Proyectos Elaborados.</h3>
                 </div>
-                <div class="row">
+                <div class="row" >
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 1-->
                         <div class="portfolio-item">
@@ -311,11 +312,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../resources/img/m1.png" alt="..." />
+                                <img class="img-fluid" src="../resources/img/img3.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Threads</div>
-                                <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                                <div class="portfolio-caption-heading">Categoria</div>
+                                <div class="portfolio-caption-subheading text-muted">BackEnd</div>
                             </div>
                         </div>
                     </div>
@@ -326,11 +327,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../resources/img/img2.jpg" alt="..." />
+                                <img class="img-fluid" src="../resources/img/img12.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                                <div class="portfolio-caption-heading">Categoria</div>
+                                <div class="portfolio-caption-subheading text-muted">Repositorios</div>
                             </div>
                         </div>
                     </div>
@@ -341,11 +342,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../resources/img/img3.jpg" alt="..." />
+                                <img class="img-fluid" src="../resources/img/img4.1.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Finish</div>
-                                <div class="portfolio-caption-subheading text-muted">Identity</div>
+                                <div class="portfolio-caption-heading">Categoria</div>
+                                <div class="portfolio-caption-subheading text-muted">Metodologías ágiles</div>
                             </div>
                         </div>
                     </div>
@@ -356,11 +357,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../resources/img/img4.jpg" alt="..." />
+                                <img class="img-fluid" src="../resources/img/img9.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Lines</div>
-                                <div class="portfolio-caption-subheading text-muted">Branding</div>
+                                <div class="portfolio-caption-heading">Categoria</div>
+                                <div class="portfolio-caption-subheading text-muted">Base de Datos</div>
                             </div>
                         </div>
                     </div>
@@ -371,11 +372,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../resources/img/img5.jpg" alt="..." />
+                                <img class="img-fluid" src="../resources/img/img7.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Southwest</div>
-                                <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                                <div class="portfolio-caption-heading">Categoria</div>
+                                <div class="portfolio-caption-subheading text-muted">FrontEnd</div>
                             </div>
                         </div>
                     </div>
@@ -386,11 +387,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../resources/img/img6.jpg" alt="..." />
+                                <img class="img-fluid" src="../resources/img/n.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Window</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                <div class="portfolio-caption-heading">Categoria</div>
+                                <div class="portfolio-caption-subheading text-muted">?</div>
                             </div>
                         </div>
                     </div>
@@ -445,29 +446,33 @@
         <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Cerrar" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Terminal Git </h2>
+                                    <p class="item-intro text-muted">Manejo de Terminal Git y Repositorio GitHub.</p>
+                                    <p>Uso de terminal Git Bash para manejo del código fuente en los diferentes pryectos de programación elaborados y posterior almacenado en el repositorio personal alojado en GitHub</p>
+                                    <p class="item-intro text-muted">Terminal de Git.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/g2.png" alt="..." />
+                                    <p class="item-intro text-muted">Repositorio en GitHub.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/g1.png" alt="..." />
+                                    
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Explore
+                                            <strong>Cliente:</strong>
+                                            Poryecto Personal
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Graphic Design
+                                            <strong>Categoria:</strong>
+                                            Control de código fuente
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Volver
                                     </button>
                                 </div>
                             </div>
@@ -480,29 +485,32 @@
         <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Cerrar" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Metodologías Ágiles </h2>
+                                    <p class="item-intro text-muted">Uso de concepto de metodologías ágiles como SCRUM o KANBAN.</p>
+                                    <p> Manejo de herramienta Notion para el control, asignación y desarrollo de eventos de un proyecto para el desarrollo ágil, mediante la confección del Product Backlog</p>
+                                    <p class="item-intro text-muted">Notion.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/a1.png" alt="..." />
+                                    <p class="item-intro text-muted">Equipo SCRUM.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/a2.png" alt="..." />
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Finish
+                                            <strong>Cliente:</strong>
+                                            Proyecto Personal
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Identity
+                                            <strong>Categora:</strong>
+                                            Metodologías Ágiles
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Volver
                                     </button>
                                 </div>
                             </div>
@@ -515,16 +523,19 @@
         <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Cerrar" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Bases de Datos</h2>
+                                    <p class="item-intro text-muted">Conocimientos en la creación y modificacion de base de datos en SQL Server y MySQL.</p>
+                                    <p> Manejo de herramienta Notion para el control, asignación y desarrollo de eventos de un proyecto para el desarrollo ágil, mediante la confección del Product Backlog</p>
+                                    <p class="item-intro text-muted">Notion.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/db1.2.png" alt="..." />
+                                    <p class="item-intro text-muted">Equipo SCRUM.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/.png" alt="..." />
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -537,7 +548,7 @@
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Volver
                                     </button>
                                 </div>
                             </div>
