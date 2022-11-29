@@ -532,18 +532,18 @@
                                     <h2 class="text-uppercase">Bases de Datos</h2>
                                     <p class="item-intro text-muted">Conocimientos en la creación y modificacion de base de datos en SQL Server y MySQL.</p>
                                     <p> Manejo de herramienta Notion para el control, asignación y desarrollo de eventos de un proyecto para el desarrollo ágil, mediante la confección del Product Backlog</p>
-                                    <p class="item-intro text-muted">Notion.</p>
+                                    <p class="item-intro text-muted">SQL Server.</p>
                                     <img class="img-fluid d-block mx-auto" src="../resources/img/db1.2.png" alt="..." />
-                                    <p class="item-intro text-muted">Equipo SCRUM.</p>
+                                    <p class="item-intro text-muted"></p>
                                     <img class="img-fluid d-block mx-auto" src="../resources/img/.png" alt="..." />
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Lines
+                                            <strong>Cliente:</strong>
+                                            Proyecto Personal
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Branding
+                                            <strong>Categoria:</strong>
+                                            Base de Datos
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
@@ -561,29 +561,32 @@
         <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Cerrar" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Diseño Web</h2>
+                                    <p class="item-intro text-muted">Creación de un Portafolio Web.</p>
+                                    <p> Confección de un sitio web con PHP, HTML, CSS y JavaScript. También se utilizaron frameworks como Bootstrap. Lapágina posee un dominio y se aloja en un hosting gratuito</p>
+                                    <p class="item-intro text-muted">Hosting.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/w1.png" alt="..." />
+                                    <p class="item-intro text-muted">Panel Control.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/w2.png" alt="..." />
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Southwest
+                                            <strong>Cliente:</strong>
+                                            Proyecto Personal
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Website Design
+                                            <strong>Categoria:</strong>
+                                            Diseño Web (Portafolio profesional)
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Volver
                                     </button>
                                 </div>
                             </div>
@@ -596,7 +599,7 @@
         <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                    <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Cerrar" /></div>
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
@@ -618,7 +621,7 @@
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Volver
                                     </button>
                                 </div>
                             </div>
