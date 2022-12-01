@@ -15,4 +15,5 @@
 		$_SESSION['nombre'] = $datos->nombre_usu;
 		header('Location: homepage.php');
 	}
+	
 ?>

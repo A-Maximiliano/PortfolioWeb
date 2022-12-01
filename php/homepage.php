@@ -24,7 +24,7 @@
         <nav id="sidebar-wrapper">
         <div class="transbox">
             <ul class="sidebar-nav">
-                <li class="sidebar-brand"><a href="#page-top">Descargar Curriculum</a></li>
+                <li class="sidebar-brand"><a href="resume.php"  name= "resume">Descargar Curriculum</a></li>
                 <li class="sidebar-nav-item"><a href="#page-top">Inicio</a></li>
                 <li class="sidebar-nav-item"><a href="#about">Acerca</a></li>
                 <li class="sidebar-nav-item"><a href="#exper">Experiencia</a></li>
@@ -535,7 +535,7 @@
                                     <p class="item-intro text-muted">SQL Server.</p>
                                     <img class="img-fluid d-block mx-auto" src="../resources/img/db1.2.png" alt="..." />
                                     <p class="item-intro text-muted"></p>
-                                    <img class="img-fluid d-block mx-auto" src="../resources/img/.png" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/" alt="..." />
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Cliente:</strong>
