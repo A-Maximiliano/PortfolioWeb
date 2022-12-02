@@ -454,7 +454,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Terminal Git </h2>
                                     <p class="item-intro text-muted">Manejo de Terminal Git y Repositorio GitHub.</p>
-                                    <p>Uso de terminal Git Bash para manejo del código fuente en los diferentes pryectos de programación elaborados y posterior almacenado en el repositorio personal alojado en GitHub</p>
+                                    <p>Uso de terminal Git Bash para manejo del código fuente en los diferentes proyectos de programación elaborados y posterior almacenado en el repositorio personal alojado en GitHub</p>
                                     <p class="item-intro text-muted">Terminal de Git.</p>
                                     <img class="img-fluid d-block mx-auto" src="../resources/img/g2.png" alt="..." />
                                     <p class="item-intro text-muted">Repositorio en GitHub.</p>
@@ -605,18 +605,17 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
+                                    <h2 class="text-uppercase">Nuevos Proyectos</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../resources/img/img14.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
-                                            <strong>Client:</strong>
-                                            Window
+                                            
                                         </li>
                                         <li>
-                                            <strong>Category:</strong>
-                                            Photography
+                                            <strong>Categoria:</strong>
+                                            Siguiente Proyecto
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
@@ -661,7 +660,7 @@
         <section class="page-section" id="contact">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Cantáctame al siguiente correo o por medio del formulario</h2>
+                    <h2 class="section-heading text-uppercase">Contáctame</h2>
                     <h3 class="section-subheading text-muted">maxnavavarro01@outlook.com.</h3>
                 </div>
 
@@ -742,7 +741,7 @@
                         <a class="social-link rounded-circle text-white" href="https://github.com/A-Maximiliano"><i class="icon-social-github"></i></a>
                     </li>
                 </ul>
-                <p class="text-muted small mb-0">Copyright &copy; Your Website 2022</p>
+                <p class="text-muted small mb-0">Copyright &copy; Max Navarro 2022</p>
             </div>
         </footer>
         <!-- Scroll to Top Button-->
