@@ -8,7 +8,10 @@
     <title>Curriculum Vitae</title>
 </head>
 <body>
-    <h2>Curriculum Vitae</h2>
+
+<div class="close-modal" data-bs-dismiss="modal"><img src="../resources/img/back.png" alt="Cerrar" />
+<li class="sidebar-brand"><a href="homepage.php"  name= "resume">Volver</a></li>
+</div>
     <Center>
     <hr>
         <embed src="../resources/docs/Resumen_Maximiliano Nav Fdz 2022_Es.pdf" type="application/pdf" width="80%" height="1000px"/></Center>
