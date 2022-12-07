@@ -26,10 +26,10 @@
             <ul class="sidebar-nav">
                 <li class="sidebar-brand"><a href="resume.php"  name= "resume">Descargar Curriculum</a></li>
                 <li class="sidebar-nav-item"><a href="#page-top">Inicio</a></li>
-                <li class="sidebar-nav-item"><a href="#about">Acerca</a></li>
+                <li class="sidebar-nav-item"><a href="#about">Quién Soy</a></li>
                 <li class="sidebar-nav-item"><a href="#exper">Experiencia</a></li>
                 <li class="sidebar-nav-item"><a href="#certif">Certificaciones</a></li>
-                <li class="sidebar-nav-item"><a href="#portfolio">Portfolio</a></li>
+                <li class="sidebar-nav-item"><a href="#portfolio">Portafolio</a></li>
                 <li class="sidebar-nav-item"><a href="#contact">Contacto</a></li>
             </ul>
             </div>
@@ -61,7 +61,7 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-10">
                         <h2>Entusiasta de las nuevas tecnologías y el desarrollo de software!</h2>
-                        <p class="lead mb-5">
+                        <p class="lead mb-5" align = "justify">
                            
                         Soy un programador Junior con conocimientos en BackEnd, FrontEnd, Base de Datos y otros softwar's. Poseo excelentes habilidades de análisis, 
                         planificación y gestión del tiempo, los cuales he adquirido durante mis estudios universitarios y experiencia profesional previa. 
@@ -301,7 +301,7 @@
                     <br />
                     <br />
                     <br />
-                    <h2 class="section-heading text-uppercase">Portfolio</h2>
+                    <h2 class="section-heading text-uppercase">Portafolio</h2>
                     <h3 class="section-subheading text-muted">Proyectos Elaborados.</h3>
                 </div>
                 <div class="row" >
